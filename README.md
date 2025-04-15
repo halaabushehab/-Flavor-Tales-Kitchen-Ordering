@@ -24,3 +24,5 @@ Flavor Tales operates under a **cloud kitchen model**, focusing exclusively on *
 
 
 🔗 [Visit Flavor Tales](https://flavor-tales3.odoo.com)
+🔗 [Wireframes & Mockups](https://www.figma.com/design/jcokPFr5fCiJarRPKTwSsS/Flavor-Tales?node-id=0-1&p=f&t=oZ0PPC3MgquiEOWi-0)
+🔗 [Trello](https://trello.com/b/jqIVOhkO/flavor-tales)
